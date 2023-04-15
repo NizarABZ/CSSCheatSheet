@@ -1,0 +1,25 @@
+.title {
+  text-align: center;
+  color: Black;
+  background-color: #e75480;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: pink;
+}
+table, th, td {
+  border: 2px solid black;
+}
+
+.Row1 {
+  background-color: #e75480;
+  font-size: 40px;
+}
+
+.Row3, .Row5, .Row7{
+
+  background-color: #e75480
+
+}
